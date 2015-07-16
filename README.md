@@ -5,3 +5,5 @@
 3. After you click submit, it takes you to a page with more detials. Go to `URL` and have it point to `http://updwn.co/slack` using the `POST` method.
 4. Check the button to show the command in the autocomplete list, and set the description to `Creates a new updwn poll` and Usage Hint to `[poll question]`.
 5. Click `Save Integration` and you're set!
+
+If you have any questions or issues, just email nbashaw@gmail.com. 
